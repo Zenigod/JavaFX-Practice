@@ -6,28 +6,20 @@ package sample;
 //This lab was hard!!!
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.layout.GridPane;
-
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
-
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
-
-import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-import javafx.scene.Node;
 
 public class NoteTracker extends Application {
     // DECLARE AND CONSTRUCT ARRAYLIST OF LABELS
